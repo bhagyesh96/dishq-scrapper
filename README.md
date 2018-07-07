@@ -9,3 +9,8 @@
 4   > log on to "127.0.0.1/dash/zomato" <br>
 5   > you will see all Scraped data on web page  <br>
 
+<h1>Trouble shoot</h1>
+  1 > to test web app rename test.json to data.json and run Django app
+  2 > if it is not locating "data.json" change path in "zomato/views" for json file
+  
+
